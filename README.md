@@ -143,7 +143,16 @@ In this assignment we will get to practice collaborating around a code project w
 
 We will use a birth dataset from ‘fivethirtyeight.com’. This dataset contains U.S. births data for 1994 - 2003 which, is provided by the Centers for Disease Control and Prevention’s (CDC’s) National Center for Health Statistics (NCNS). We will load the data from their GitHub repository.
 
+# PeiMing Chen
 
+Initial Description and Links 
+
+In this assignment , we get to practice collabarating around a code project with Github . We will create and example using one or more TidyVerse packages and demonstrate how to use the capabilities. I use a dataset from Kaggle.com. 
+
+<li> <a href = "https://rpubs.com/PMC/1029728"> Rpubs </a> </li>
+
+<li> <a href = "https://raw.githubusercontent.com/PMCformosa/Tideyverse-CREATE-Assignment/main/Tidyverse%20Assignment.Rmd"> Github </a>
+  
 
 
 
